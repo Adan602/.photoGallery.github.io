@@ -45,3 +45,13 @@ body{
 #planet_grid:hover{
     transform: scale(0.9);
 }
+#sun{
+    padding-left: 650px;
+}
+#moon{
+    padding-left: 650px;
+    height: 250px;
+}
+#pluto{
+    padding-left: 650px;
+}
